@@ -1,4 +1,5 @@
-### Hi there 👋
+### Hi there 👋  
+You can check out my main [account](https://github.com/berceou) if you want :)
 
 <!--
 **berceuygun/berceuygun** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
